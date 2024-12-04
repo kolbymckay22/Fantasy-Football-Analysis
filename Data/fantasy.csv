@@ -1275,10 +1275,10 @@ Year,Rank,Name,Age,Experience,Games_Played,Points_Per_Game,Total_Points,Team
 2023,80.0,Elijah Mitchell SF,25.0,3.0,10.0,3.3,32.8,SF
 2023,88.0,Nick Chubb CLE,28.0,6.0,2.0,11.6,23.1,CLE
 2023,107.0,J.K. Dobbins BAL,25.0,4.0,1.0,11.7,11.7,BAL
-2024,1.0,Derrick Henry BAL,30.0,9.0,10.0,21.6,215.6,BAL
-2024,2.0,Alvin Kamara NO,29.0,8.0,10.0,20.7,206.6,NO
-2024,3.0,Bijan Robinson ATL,22.0,2.0,10.0,19.1,190.9,ATL
-2024,4.0,Saquon Barkley PHI,27.0,7.0,9.0,20.4,183.9,PHI
+2024,1.0,Saquon Barkley PHI,27.0,7.0,10.0,21.8,217.7,PHI
+2024,2.0,Derrick Henry BAL,30.0,9.0,10.0,21.6,215.6,BAL
+2024,3.0,Alvin Kamara NO,29.0,8.0,10.0,20.7,206.6,NO
+2024,4.0,Bijan Robinson ATL,22.0,2.0,10.0,19.1,190.9,ATL
 2024,5.0,Chuba Hubbard CAR,25.0,4.0,10.0,16.6,166.2,CAR
 2024,6.0,Kyren Williams LAR,24.0,3.0,9.0,18.3,165.0,LAR
 2024,7.0,Jahmyr Gibbs DET,22.0,2.0,9.0,18.1,162.9,DET
@@ -1297,19 +1297,19 @@ Year,Rank,Name,Age,Experience,Games_Played,Points_Per_Game,Total_Points,Team
 2024,20.0,Tony Pollard TEN,27.0,6.0,9.0,14.2,128.0,TEN
 2024,21.0,Rhamondre Stevenson NE,26.0,4.0,9.0,14.2,127.4,NE
 2024,22.0,Rachaad White TB,25.0,3.0,9.0,14.1,126.7,TB
-2024,23.0,Bucky Irving TB,22.0,1.0,10.0,11.8,118.0,TB
-2024,24.0,Najee Harris PIT,26.0,4.0,9.0,12.7,114.7,PIT
-2024,25.0,Jonathan Taylor IND,25.0,5.0,7.0,16.3,114.4,IND
-2024,26.0,Jordan Mason SF,25.0,3.0,9.0,11.7,105.6,SF
-2024,27.0,Austin Ekeler WAS,29.0,8.0,9.0,11.7,105.1,WAS
-2024,28.0,Javonte Williams DEN,24.0,4.0,10.0,10.4,104.0,DEN
-2024,29.0,Tyrone Tracy Jr. NYG,25.0,1.0,10.0,10.2,102.2,NYG
-2024,30.0,Kareem Hunt KC,29.0,8.0,6.0,16.8,100.5,KC
-2024,31.0,Brian Robinson Jr WAS,25.0,3.0,7.0,14.1,99.0,WAS
+2024,23.0,Austin Ekeler WAS,29.0,8.0,10.0,12.3,122.7,WAS
+2024,24.0,Bucky Irving TB,22.0,1.0,10.0,11.8,118.0,TB
+2024,25.0,Najee Harris PIT,26.0,4.0,9.0,12.7,114.7,PIT
+2024,26.0,Jonathan Taylor IND,25.0,5.0,7.0,16.3,114.4,IND
+2024,27.0,Brian Robinson Jr WAS,25.0,3.0,8.0,14.2,113.2,WAS
+2024,28.0,Jordan Mason SF,25.0,3.0,9.0,11.7,105.6,SF
+2024,29.0,Javonte Williams DEN,24.0,4.0,10.0,10.4,104.0,DEN
+2024,30.0,Tyrone Tracy Jr. NYG,25.0,1.0,10.0,10.2,102.2,NYG
+2024,31.0,Kareem Hunt KC,29.0,8.0,6.0,16.8,100.5,KC
 2024,38.0,Travis Etienne Jr. JAX,25.0,4.0,8.0,8.8,70.4,JAX
 2024,42.0,Jerome Ford CLE,25.0,3.0,7.0,9.0,62.8,CLE
 2024,45.0,Raheem Mostert MIA,32.0,10.0,6.0,8.8,52.9,MIA
-2024,55.0,Jaylen Warren PIT,26.0,3.0,7.0,6.5,45.3,PIT
+2024,56.0,Jaylen Warren PIT,26.0,3.0,7.0,6.5,45.3,PIT
 2024,61.0,Ezekiel Elliott DAL,29.0,9.0,8.0,5.0,40.1,DAL
 2024,66.0,Isiah Pacheco KC,25.0,3.0,2.0,16.0,31.9,KC
 2024,78.0,Nick Chubb CLE,29.0,7.0,3.0,6.6,19.9,CLE
