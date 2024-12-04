@@ -263,8 +263,8 @@ with tab2:
             x="Year",
             y=selected_stat,
             color="Name",  # Different lines for each RB
-            title=f"{selected_stat_label} Comparison for Selected Quarterbacks",
-            labels={"Year": "Year", selected_stat: selected_stat_label, "Name": "Quarterback"},
+            title=f"{selected_stat_label} Comparison for Selected Running Backs",
+            labels={"Year": "Year", selected_stat: selected_stat_label, "Name": "Running Back"},
             line_shape="spline",  # Smooth lines
             markers=True          # Add data point markers
         )
