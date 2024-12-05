@@ -106,7 +106,7 @@ wr_df.columns = [
     'Rushing_Touchdowns', 
     'Receptions', 
     'Receiving_Yards', 
-    'Yard_Per_Reception',
+    'Yards_Per_Reception',
     'Receiving_Touchdowns', 
     'Fantasy_Points_Per_Game', 
     'Total_Fantasy_Points', 
@@ -299,7 +299,7 @@ with tab3:
         'Games Played': 'Games_Played',
         'Receptions': 'Receptions',
         'Receiving Yards': 'Receiving_Yards',
-        'Yards Per Receptions': 'Yards_Per_Reception',
+        'Yards Per Reception': 'Yards_Per_Reception',
         'Receiving Touchdowns': 'Receiving_Touchdowns',
         'Fantasy Points Per Game': 'Fantasy_Points_Per_Game',
         'Total Fantasy Points': 'Total_Fantasy_Points'
